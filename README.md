@@ -1,6 +1,6 @@
 # 🎵 Musikin Player - Tugas Besar Struktur Data
 
-> **Kelompok 12** > Repository ini berisi source code untuk Tugas Besar mata kuliah Struktur Data. Aplikasi ini adalah simulasi pemutar musik berbasis CLI (Command Line Interface) yang menerapkan berbagai manipulasi struktur data.
+"Halo! Ini adalah repository resmi Kelompok 12 untuk Tugas Besar mata kuliah Struktur Data. Di sini, kami membuat simulasi aplikasi pemutar musik berbasis teks (CLI) untuk mempraktikkan penggunaan struktur data secara langsung."
 
 ## 👥 Anggota Kelompok
 * **[Fembiana Dika Saputri]** - [103132400026]
@@ -8,7 +8,7 @@
 * **[Abdullah Ahmad Izzah]** - [103132430024]
   
 ## 🛠️ Struktur Data yang Digunakan
-Inti dari proyek ini adalah implementasi manual (tanpa STL container) dari:
+Inti dari proyek ini adalah implementasi dari:
 * **Doubly Linked List:** Digunakan pada **Library Utama Lagu**. Memungkinkan navigasi dua arah (*Next* dan *Previous* song).
 * **Singly Linked List:** Digunakan pada **Playlist** dan **Daftar Favorit**. Menggunakan pointer reference ke node lagu asli untuk efisiensi memori.
 * **Pointer Manipulation:** Digunakan untuk fitur *Play*, *Next*, *Prev*, dan penghapusan data yang saling berelasi (Library ke Playlist).
