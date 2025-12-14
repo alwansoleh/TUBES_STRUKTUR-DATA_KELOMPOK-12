@@ -17,7 +17,7 @@ Inti dari proyek ini adalah implementasi dari:
 
 ### 👨‍💻 Mode Admin
 * **Login Authentication** (Password Protected).
-* **CRUD Lagu:** Menambah, melihat, mengedit, dan menghapus lagu dari Library.
+* **CRUD (Create, Read, Update, Delete) Lagu:** Menambah, melihat, mengedit, dan menghapus data lagu dari Library.
 * **Smart Delete:** Saat lagu dihapus dari Library, lagu tersebut otomatis terhapus dari semua Playlist user untuk mencegah error (*dangling pointer*).
 
 ### 🎧 Mode User
