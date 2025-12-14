@@ -27,7 +27,7 @@ Inti dari proyek ini adalah implementasi dari:
 * **Favorites:** Menandai lagu yang disukai.
 
 ## 🔑 Akun Demo
-Untuk pengujian fitur Admin, gunakan kredensial berikut:
+Untuk pengujian fitur Admin, gunakan data login berikut:
 * **Role:** Admin
 * **Password:** `kelompok12cihuy`
 
