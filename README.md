@@ -1,6 +1,6 @@
 # 🎵 Musikin Player - Tugas Besar Struktur Data
 
-"Halo! Ini adalah repository resmi Kelompok 12 untuk Tugas Besar mata kuliah Struktur Data. Di sini, kami membuat simulasi aplikasi pemutar musik berbasis teks (CLI) untuk mempraktikkan penggunaan struktur data secara langsung."
+Halo! Ini adalah repository resmi Kelompok 12 untuk Tugas Besar mata kuliah Struktur Data. Di sini, kami membuat simulasi aplikasi pemutar musik berbasis teks (CLI) untuk mempraktikkan penggunaan struktur data secara langsung.
 
 ## 👥 Anggota Kelompok
 * **[Fembiana Dika Saputri]** - [103132400026]
